@@ -51,50 +51,50 @@
 {'Mist, The (2007)': ['Lord of the Rings: The Return of the King, The (2003)', 'Lord of the Rings: The Fellowship of the Ring, The (2001)']}
 {"World's End, The (2013)": ['Avatar (2009)']}
 {'Adventureland (2009)': ['300 (2007)']}
-{'RoboCop (1987)': ['Man with the Golden Gun, The (1974)']}
-{'RoboCop (1987)': ['Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
-{'RoboCop (1987)': ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Man with the Golden Gun, The (1974)']}
-{'RoboCop (1987)': ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
-{'Interstellar (2014)': ['10 Cloverfield Lane (2016)']}
-{'Indiana Jones and the Temple of Doom (1984)': ["On Her Majesty's Secret Service (1969)"]}
-{'300 (2007)': ['Adventureland (2009)']}
-{'Happy Gilmore (1996)': ['Waiting... (2005)']}
-{'Avatar (2009)': ["World's End, The (2013)"]}
-{'Wizard of Oz, The (1939)': ['Rescuers, The (1977)']}
-{'Memento (2000)': ['Munich (2005)']}
-{'Harry Potter and the Prisoner of Azkaban (2004)': ['Chronicles of Narnia: Prince Caspian, The (2008)']}
-{'Spider-Man (2002)': ['The Scorpion King (2002)']}
-{'Spider-Man (2002)': ['The Scorpion King (2002)', 'Matrix, The (1999)']}
-{'Spider-Man (2002)': ['The Scorpion King (2002)', 'Sixth Sense, The (1999)']}
-{'Spider-Man (2002)': ['The Scorpion King (2002)', 'Sixth Sense, The (1999)', 'Matrix, The (1999)']}
-{'Apocalypse Now (1979)': ['All Quiet on the Western Front (1930)']}
-{'Monty Python and the Holy Grail (1975)': ['Odd Couple, The (1968)']}
-{'Lord of the Rings: The Return of the King, The (2003)': ['Tron: Legacy (2010)']}
-{'Fargo (1996)': ['Of Mice and Men (1992)']}
-{'Shrek (2001)': ['S.W.A.T. (2003)']}
-{'Shrek (2001)': ['Matrix, The (1999)', 'S.W.A.T. (2003)']}
-{'Indiana Jones and the Last Crusade (1989)': ['Gremlins 2: The New Batch (1990)']}
-{'Fargo (1996)': ['Barton Fink (1991)']}
-{'Sixth Sense, The (1999)': ['The Scorpion King (2002)']}
-{'Sixth Sense, The (1999)': ['The Scorpion King (2002)', 'Matrix, The (1999)']}
-{'Sixth Sense, The (1999)': ['The Scorpion King (2002)', 'Spider-Man (2002)']}
-{'Sixth Sense, The (1999)': ['The Scorpion King (2002)', 'Matrix, The (1999)', 'Spider-Man (2002)']}
-{'Sixth Sense, The (1999)': ['Batman: Mask of the Phantasm (1993)']}
-{'Sixth Sense, The (1999)': ['Bubba Ho-tep (2002)']}
-{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Back to School (1986)']}
-{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Man with the Golden Gun, The (1974)']}
-{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
-{'Star Wars: Episode VI - Return of the Jedi (1983)': ['RoboCop (1987)', 'Man with the Golden Gun, The (1974)']}
-{'Star Wars: Episode VI - Return of the Jedi (1983)': ['RoboCop (1987)', 'Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
-{'Fargo (1996)': ['Dirty Pretty Things (2002)']}
-{'Fargo (1996)': ['American Beauty (1999)', 'Dirty Pretty Things (2002)']}
-{'Seven (a.k.a. Se7en) (1995)': ['Fountain, The (2006)']}
-{'Lord of the Rings: The Return of the King, The (2003)': ['Imaginarium of Doctor Parnassus, The (2009)']}
-{'American Beauty (1999)': ['Celebration, The (Festen) (1998)']}
-{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Heartbreak Ridge (1986)']}
-{'Lord of the Rings: The Fellowship of the Ring, The (2001)': ['Mist, The (2007)']}
-{'Lord of the Rings: The Fellowship of the Ring, The (2001)': ['Mist, The (2007)', 'Lord of the Rings: The Return of the King, The (2003)']}
-{"Schindler's List (1993)": ['Cinderella Man (2005)']}
-{'Lord of the Rings: The Return of the King, The (2003)': ['Mist, The (2007)']}
-{'Lord of the Rings: The Return of the King, The (2003)': ['Mist, The (2007)', 'Lord of the Rings: The Fellowship of the Ring, The (2001)']}
-{'American Beauty (1999)': ['Dirty Pretty Things (2002)']}
+{'Big Night (1996)': ['Twelve Monkeys (a.k.a. 12 Monkeys) (1995)']}
+{'World War Z (2013)': ['Monsters, Inc. (2001)']}
+{'Cold Mountain (2003)': ['Finding Nemo (2003)']}
+{'Elite Squad (Tropa de Elite) (2007)': ['Silence of the Lambs, The (1991)']}
+{'6th Day, The (2000)': ['Lord of the Rings: The Fellowship of the Ring, The (2001)']}
+{'6th Day, The (2000)': ['Sixth Sense, The (1999)']}
+{'6th Day, The (2000)': ['X-Men (2000)']}
+{'6th Day, The (2000)': ['Lord of the Rings: The Fellowship of the Ring, The (2001)', 'Sixth Sense, The (1999)']}
+{'6th Day, The (2000)': ['Lord of the Rings: The Fellowship of the Ring, The (2001)', 'X-Men (2000)']}
+{'6th Day, The (2000)': ['X-Men (2000)', 'Sixth Sense, The (1999)']}
+{'6th Day, The (2000)': ['Lord of the Rings: The Fellowship of the Ring, The (2001)', 'Sixth Sense, The (1999)', 'X-Men (2000)']}
+{'City Hall (1996)': ['Heat (1995)']}
+{'Crank (2006)': ['Lord of the Rings: The Return of the King, The (2003)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Forrest Gump (1994)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Matrix, The (1999)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Apollo 13 (1995)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Matrix, The (1999)', 'Forrest Gump (1994)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Forrest Gump (1994)', 'Apollo 13 (1995)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Matrix, The (1999)', 'Apollo 13 (1995)']}
+{'Winged Migration (Peuple migrateur, Le) (2001)': ['Matrix, The (1999)', 'Forrest Gump (1994)', 'Apollo 13 (1995)']}
+{"Shoot 'Em Up (2007)": ['Matrix, The (1999)']}
+{"Shoot 'Em Up (2007)": ['Lord of the Rings: The Return of the King, The (2003)']}
+{"Shoot 'Em Up (2007)": ['Lord of the Rings: The Return of the King, The (2003)', 'Matrix, The (1999)']}
+{'Top Secret! (1984)': ['Fargo (1996)']}
+{'Thirteenth Floor, The (1999)': ['Matrix, The (1999)']}
+{'Chorus, The (Choristes, Les) (2004)': ['Matrix, The (1999)']}
+{'Chorus, The (Choristes, Les) (2004)': ["Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)"]}
+{'Chorus, The (Choristes, Les) (2004)': ['Matrix, The (1999)', "Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)"]}
+{'Key Largo (1948)': ['Chinatown (1974)']}
+{'Fahrenheit 451 (1966)': ['Memento (2000)']}
+{'A Million Ways to Die in the West (2014)': ['Up (2009)']}
+{"Futurama: Bender's Big Score (2007)": ['Jurassic Park (1993)']}
+{"Futurama: Bender's Big Score (2007)": ['X-Men (2000)']}
+{"Futurama: Bender's Big Score (2007)": ['Spider-Man (2002)']}
+{"Futurama: Bender's Big Score (2007)": ['Jurassic Park (1993)', 'X-Men (2000)']}
+{"Futurama: Bender's Big Score (2007)": ['Jurassic Park (1993)', 'Spider-Man (2002)']}
+{"Futurama: Bender's Big Score (2007)": ['X-Men (2000)', 'Spider-Man (2002)']}
+{"Futurama: Bender's Big Score (2007)": ['Jurassic Park (1993)', 'X-Men (2000)', 'Spider-Man (2002)']}
+{'Bicentennial Man (1999)': ['Matrix, The (1999)']}
+{'Bicentennial Man (1999)': ['Terminator, The (1984)']}
+{'Bicentennial Man (1999)': ['Terminator, The (1984)', 'Matrix, The (1999)']}
+{'Universal Soldier (1992)': ['Air Force One (1997)']}
+{'In the Heat of the Night (1967)': ['Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)']}
+{'Family Guy Presents Stewie Griffin: The Untold Story (2005)': ['Fargo (1996)']}
+{'Family Guy Presents Stewie Griffin: The Untold Story (2005)': ['X-Men (2000)']}
+{'Family Guy Presents Stewie Griffin: The Untold Story (2005)': ['Ghostbusters (a.k.a. Ghost Busters) (1984)']}
+{'Family Guy Presents Stewie Griffin: The Untold Story (2005)': ['Fargo (1996)', 'X-Men (2000)']}
