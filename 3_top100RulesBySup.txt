@@ -1,0 +1,100 @@
+{'Memento (2000)': ['Munich (2005)']}
+{'Munich (2005)': ['Memento (2000)']}
+{'Lord of the Rings: The Return of the King, The (2003)': ['Tron: Legacy (2010)']}
+{'Tron: Legacy (2010)': ['Lord of the Rings: The Return of the King, The (2003)']}
+{'Fargo (1996)': ['Of Mice and Men (1992)']}
+{'Of Mice and Men (1992)': ['Fargo (1996)']}
+{'Indiana Jones and the Temple of Doom (1984)': ["On Her Majesty's Secret Service (1969)"]}
+{"On Her Majesty's Secret Service (1969)": ['Indiana Jones and the Temple of Doom (1984)']}
+{'Forrest Gump (1994)': ['Rundown, The (2003)']}
+{'Rundown, The (2003)': ['Forrest Gump (1994)']}
+{'Matrix, The (1999)': ['S.W.A.T. (2003)']}
+{'S.W.A.T. (2003)': ['Matrix, The (1999)']}
+{'Shrek (2001)': ['S.W.A.T. (2003)']}
+{'S.W.A.T. (2003)': ['Shrek (2001)']}
+{'Matrix, The (1999)': ['Shrek (2001)', 'S.W.A.T. (2003)']}
+{'Shrek (2001)': ['Matrix, The (1999)', 'S.W.A.T. (2003)']}
+{'S.W.A.T. (2003)': ['Shrek (2001)', 'Matrix, The (1999)']}
+{'American Beauty (1999)': ['Celebration, The (Festen) (1998)']}
+{'Celebration, The (Festen) (1998)': ['American Beauty (1999)']}
+{"Schindler's List (1993)": ['Cinderella Man (2005)']}
+{'Cinderella Man (2005)': ["Schindler's List (1993)"]}
+{'Matrix, The (1999)': ['The Scorpion King (2002)']}
+{'The Scorpion King (2002)': ['Matrix, The (1999)']}
+{'Sixth Sense, The (1999)': ['The Scorpion King (2002)']}
+{'The Scorpion King (2002)': ['Sixth Sense, The (1999)']}
+{'Spider-Man (2002)': ['The Scorpion King (2002)']}
+{'The Scorpion King (2002)': ['Spider-Man (2002)']}
+{'Matrix, The (1999)': ['The Scorpion King (2002)', 'Sixth Sense, The (1999)']}
+{'Sixth Sense, The (1999)': ['The Scorpion King (2002)', 'Matrix, The (1999)']}
+{'The Scorpion King (2002)': ['Sixth Sense, The (1999)', 'Matrix, The (1999)']}
+{'Matrix, The (1999)': ['The Scorpion King (2002)', 'Spider-Man (2002)']}
+{'Spider-Man (2002)': ['The Scorpion King (2002)', 'Matrix, The (1999)']}
+{'The Scorpion King (2002)': ['Matrix, The (1999)', 'Spider-Man (2002)']}
+{'Sixth Sense, The (1999)': ['The Scorpion King (2002)', 'Spider-Man (2002)']}
+{'Spider-Man (2002)': ['The Scorpion King (2002)', 'Sixth Sense, The (1999)']}
+{'The Scorpion King (2002)': ['Sixth Sense, The (1999)', 'Spider-Man (2002)']}
+{'Matrix, The (1999)': ['The Scorpion King (2002)', 'Sixth Sense, The (1999)', 'Spider-Man (2002)']}
+{'Sixth Sense, The (1999)': ['The Scorpion King (2002)', 'Matrix, The (1999)', 'Spider-Man (2002)']}
+{'Spider-Man (2002)': ['The Scorpion King (2002)', 'Sixth Sense, The (1999)', 'Matrix, The (1999)']}
+{'The Scorpion King (2002)': ['Sixth Sense, The (1999)', 'Matrix, The (1999)', 'Spider-Man (2002)']}
+{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Back to School (1986)']}
+{'Back to School (1986)': ['Star Wars: Episode VI - Return of the Jedi (1983)']}
+{'Matrix, The (1999)': ['Syriana (2005)']}
+{'Syriana (2005)': ['Matrix, The (1999)']}
+{'Matrix, The (1999)': ['Expendables, The (2010)']}
+{'Expendables, The (2010)': ['Matrix, The (1999)']}
+{'Lord of the Rings: The Return of the King, The (2003)': ['Imaginarium of Doctor Parnassus, The (2009)']}
+{'Imaginarium of Doctor Parnassus, The (2009)': ['Lord of the Rings: The Return of the King, The (2003)']}
+{'Interstellar (2014)': ['10 Cloverfield Lane (2016)']}
+{'10 Cloverfield Lane (2016)': ['Interstellar (2014)']}
+{'Sixth Sense, The (1999)': ['Batman: Mask of the Phantasm (1993)']}
+{'Batman: Mask of the Phantasm (1993)': ['Sixth Sense, The (1999)']}
+{'Sixth Sense, The (1999)': ['Bubba Ho-tep (2002)']}
+{'Bubba Ho-tep (2002)': ['Sixth Sense, The (1999)']}
+{'Fargo (1996)': ['Barton Fink (1991)']}
+{'Barton Fink (1991)': ['Fargo (1996)']}
+{'Star Wars: Episode IV - A New Hope (1977)': ['Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['Star Wars: Episode IV - A New Hope (1977)']}
+{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['Star Wars: Episode VI - Return of the Jedi (1983)']}
+{'RoboCop (1987)': ['Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['RoboCop (1987)']}
+{'Star Wars: Episode IV - A New Hope (1977)': ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Man with the Golden Gun, The (1974)']}
+{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Star Wars: Episode IV - A New Hope (1977)']}
+{'Star Wars: Episode IV - A New Hope (1977)': ['RoboCop (1987)', 'Man with the Golden Gun, The (1974)']}
+{'RoboCop (1987)': ['Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['RoboCop (1987)', 'Star Wars: Episode IV - A New Hope (1977)']}
+{'Star Wars: Episode VI - Return of the Jedi (1983)': ['RoboCop (1987)', 'Man with the Golden Gun, The (1974)']}
+{'RoboCop (1987)': ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['RoboCop (1987)', 'Star Wars: Episode VI - Return of the Jedi (1983)']}
+{'Star Wars: Episode IV - A New Hope (1977)': ['RoboCop (1987)', 'Star Wars: Episode VI - Return of the Jedi (1983)', 'Man with the Golden Gun, The (1974)']}
+{'Star Wars: Episode VI - Return of the Jedi (1983)': ['RoboCop (1987)', 'Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
+{'RoboCop (1987)': ['Star Wars: Episode VI - Return of the Jedi (1983)', 'Star Wars: Episode IV - A New Hope (1977)', 'Man with the Golden Gun, The (1974)']}
+{'Man with the Golden Gun, The (1974)': ['RoboCop (1987)', 'Star Wars: Episode VI - Return of the Jedi (1983)', 'Star Wars: Episode IV - A New Hope (1977)']}
+{'Matrix, The (1999)': ['Predator 2 (1990)']}
+{'Predator 2 (1990)': ['Matrix, The (1999)']}
+{'Seven (a.k.a. Se7en) (1995)': ['Fountain, The (2006)']}
+{'Fountain, The (2006)': ['Seven (a.k.a. Se7en) (1995)']}
+{'Wizard of Oz, The (1939)': ['Rescuers, The (1977)']}
+{'Rescuers, The (1977)': ['Wizard of Oz, The (1939)']}
+{'Harry Potter and the Prisoner of Azkaban (2004)': ['Chronicles of Narnia: Prince Caspian, The (2008)']}
+{'Chronicles of Narnia: Prince Caspian, The (2008)': ['Harry Potter and the Prisoner of Azkaban (2004)']}
+{'Star Wars: Episode VI - Return of the Jedi (1983)': ['Heartbreak Ridge (1986)']}
+{'Heartbreak Ridge (1986)': ['Star Wars: Episode VI - Return of the Jedi (1983)']}
+{'Monty Python and the Holy Grail (1975)': ['Odd Couple, The (1968)']}
+{'Odd Couple, The (1968)': ['Monty Python and the Holy Grail (1975)']}
+{'American Beauty (1999)': ['Dirty Pretty Things (2002)']}
+{'Dirty Pretty Things (2002)': ['American Beauty (1999)']}
+{'Fargo (1996)': ['Dirty Pretty Things (2002)']}
+{'Dirty Pretty Things (2002)': ['Fargo (1996)']}
+{'American Beauty (1999)': ['Fargo (1996)', 'Dirty Pretty Things (2002)']}
+{'Fargo (1996)': ['American Beauty (1999)', 'Dirty Pretty Things (2002)']}
+{'Dirty Pretty Things (2002)': ['Fargo (1996)', 'American Beauty (1999)']}
+{'Indiana Jones and the Last Crusade (1989)': ['Gremlins 2: The New Batch (1990)']}
+{'Gremlins 2: The New Batch (1990)': ['Indiana Jones and the Last Crusade (1989)']}
+{'Matrix, The (1999)': ['King of Kong, The (2007)']}
+{'King of Kong, The (2007)': ['Matrix, The (1999)']}
+{'Forrest Gump (1994)': ['Turner & Hooch (1989)']}
+{'Turner & Hooch (1989)': ['Forrest Gump (1994)']}
